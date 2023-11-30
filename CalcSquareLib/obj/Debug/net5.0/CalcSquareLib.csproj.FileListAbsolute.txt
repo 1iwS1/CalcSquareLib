@@ -1,0 +1,11 @@
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\bin\Debug\net5.0\CalcSquareLib.deps.json
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\bin\Debug\net5.0\CalcSquareLib.dll
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\bin\Debug\net5.0\ref\CalcSquareLib.dll
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\bin\Debug\net5.0\CalcSquareLib.pdb
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\obj\Debug\net5.0\CalcSquareLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\obj\Debug\net5.0\CalcSquareLib.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\obj\Debug\net5.0\CalcSquareLib.AssemblyInfo.cs
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\obj\Debug\net5.0\CalcSquareLib.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\obj\Debug\net5.0\CalcSquareLib.dll
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\obj\Debug\net5.0\ref\CalcSquareLib.dll
+C:\Users\Максим\source\repos\CalcSquareLib\CalcSquareLib\obj\Debug\net5.0\CalcSquareLib.pdb
